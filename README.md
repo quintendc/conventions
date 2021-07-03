@@ -1,6 +1,6 @@
 # Codeerstandaarden en naamgevingsconventies
 
-In de opleiding Graduaat Programmeren hanteren we een aantal naamgevingsconventies omwille van de volgende redenen:
+We hanteren een aantal naamgevingsconventies omwille van de volgende redenen:
  - Het wordt makkelijker om code te lezen en te begrijpen
  - Met voorafgemaakte afspraken kan er geargumenteerd worden omtrent de inhoud, en niet te syntax of vormgeving
  
