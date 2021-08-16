@@ -13,3 +13,4 @@
 | StackPanel              | **stp** | 
 | TextBlock               | **tbk** | 
 | TextBox                 | **txt** |
+| GroupBox                 | **grb** |
